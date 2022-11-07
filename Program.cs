@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Introdueix el teu nom : ");
             string? name = Console.ReadLine();
-            Console.WriteLine($"Benvolgut {name}!");
+            Console.WriteLine($"Benvingut {name}!");
         }
     }
 }
